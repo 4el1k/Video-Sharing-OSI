@@ -1,0 +1,10 @@
+ru/itis/message/property/MessageTypes.class
+ru/itis/message/CalculateSumIntNumbersMessage.class
+ru/itis/util/validator/ProtocolMessageValidator.class
+ru/itis/message/Message.class
+ru/itis/message/SumNumbersMessage.class
+ru/itis/message/BytesMessage.class
+ru/itis/util/serializer/ObjectMessageSerializer.class
+ru/itis/message/ChatMessage.class
+ru/itis/message/property/MessageProperty.class
+ru/itis/ProtocolMessageManager.class
